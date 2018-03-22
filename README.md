@@ -19,3 +19,24 @@
 "description":"lay xe"
 }
 ```
+4. Lái xe trả vé cho bảo vệ http://localhost:1234/log/refundtick
+```
+{
+"receive":"long",
+"description":"lay xe"
+}
+```
+5. Lái xe đưa tiền: http://localhost:1234/log//givemoney?reciver=thin
+```
+{
+"receive":"long",
+"description":"tra ve"
+}
+```
+6. Bảo vệ bawtwsm giữ http://localhost:1234/log/arrest
+```
+{
+"receive":"long",
+"description":"bat giu"
+}
+```
